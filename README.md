@@ -2,7 +2,7 @@
 
 These are custom 3D-printed front tiles for the [Framework Desktop](https://frame.work/), as shown at **minute 2:53** in my [YouTube video](https://youtu.be/7-E0a6sGWgs).  
 
-![Framework Desktop with custom tiles](framewokr-tiles.png)
+![Framework Desktop with custom tiles](framework-tiles.png)
 
 ---
 
