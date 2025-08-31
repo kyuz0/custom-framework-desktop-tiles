@@ -33,6 +33,6 @@ These are custom 3D-printed front tiles for the [Framework Desktop](https://fram
 ## Video
 
 For full context and a look at the tiles in use, check out my video:  
-➡️ [Running LLMs on Framework Desktop (YouTube)](https://youtu.be/7-E0a6sGWgs)
+➡️ [Run Qwen Image and WAN 2.2 on Framework Desktop with Strix Halo (AMD AI Ryzen MAX+ 395) - Full Guide](https://youtu.be/7-E0a6sGWgs)
 
 ---
