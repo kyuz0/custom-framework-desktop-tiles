@@ -9,7 +9,7 @@ These are custom 3D-printed front tiles for the [Framework Desktop](https://fram
 ## Files
 
 - `framework tiles - front.stl`  
-- `framework tiles - back.stl`  
+- `framework tiles - back.stl`   (taken rom https://www.printables.com/model/1207702-framework-desktop-lego-compatible-tile)
 - `tiles.png` – raw front tile designs from Tinkercad  
 
 ---
